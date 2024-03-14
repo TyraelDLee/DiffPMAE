@@ -1,0 +1,12 @@
+numpy~=1.21.5
+matplotlib~=3.1.1
+h5py~=2.9.0
+yaml~=0.1.7
+pyyaml~=5.1.2
+easydict~=1.10
+open3d~=0.17.0
+tqdm~=4.64.1
+termcolor~=1.1.0
+scipy~=1.4.1
+scikit-learn~=0.23.2
+setuptools~=41.4.0

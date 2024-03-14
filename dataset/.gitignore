@@ -1,0 +1,11 @@
+data_depth_velodyne.zip
+data_object_velodyne.zip
+data_odometry_calib.zip
+data_odometry_labels.zip
+/data_odometry_labels
+/KITTI
+/KITTI_depth
+/ModelNet
+/PU1K
+/SEMANTIC_KITTI_DIR
+/ShapeNet55

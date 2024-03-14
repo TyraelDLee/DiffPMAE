@@ -1,0 +1,7 @@
+[2023-10-21 15:37:35,969::INFO]  loading dataset
+[2023-10-21 15:37:36,432::INFO]  Training Stable Diffusion
+[2023-10-21 15:37:36,433::INFO]  config:
+[2023-10-21 15:37:36,433::INFO]  Namespace(batch_size=32, beta_1=0.0001, beta_T=0.05, decoder_depth=4, decoder_num_heads=4, decoder_trans_dim=192, depth=12, device='cuda', drop_path_rate=0.1, encoder_dims=384, group_size=32, log=True, loss='cdl2', mask_ratio=0.75, mask_type='rand', num_group=64, num_heads=6, num_output=8192, num_points=2048, num_steps=200, save_dir='./results', sched_mode='linear', trans_dim=384, transformer_dim_forward=128, transformer_drop_out=0.1, val_batch_size=1)
+[2023-10-21 15:37:36,433::INFO]  dataset loaded
+[2023-10-21 15:37:38,342::INFO]  [Point_MAE] 
+[2023-10-21 15:37:38,427::INFO]  [Point_MAE] divide point cloud into G64 x S32 points ...
