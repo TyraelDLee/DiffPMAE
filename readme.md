@@ -309,3 +309,13 @@ parser.add_argument('--t_max', type=float, default=200)
 ```
 ## Acknowledgements
 Our code build based on [PointMAE](https://github.com/Pang-Yatian/Point-MAE)
+
+## Citation
+```bibtex
+@inproceedings{li2024diffpmae,
+    author = {Yanlong Li and Chamara Madarasingha and Kanchana Thilakarathna},
+    title = {DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction}
+    booktitle = {ECCV}
+    year = {2024}
+}
+```
