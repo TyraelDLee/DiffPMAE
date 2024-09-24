@@ -316,6 +316,7 @@ Our code build based on [PointMAE](https://github.com/Pang-Yatian/Point-MAE)
     author = {Yanlong Li and Chamara Madarasingha and Kanchana Thilakarathna},
     title = {DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction},
     booktitle = {ECCV},
-    year = {2024}
+    year = {2024},
+    url = {https://arxiv.org/abs/2312.03298}
 }
 ```
