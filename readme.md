@@ -10,8 +10,7 @@ downstream tasks including point cloud compression, upsampling and completion wi
 </p>
 
 GitHub repo: [https://github.com/DiffPMAE/DiffPMAE](https://github.com/DiffPMAE/DiffPMAE) <br>
-[<a href="https://arxiv.org/abs/2312.03298">arxiv</a>] [<a href="https://eccv.ecva.net/virtual/2024/poster/1690">poster</a>]
-
+[[arxiv]](https://arxiv.org/abs/2312.03298) [[poster]](https://eccv.ecva.net/virtual/2024/poster/1690)
 ## Datasets
 We use ShapeNet-55 and ModelNet40 for train and validation of the models and PU1K for upsampling validation. 
 All dataset should be placed in the folder below and that will be read by scripts automatically.</br>
